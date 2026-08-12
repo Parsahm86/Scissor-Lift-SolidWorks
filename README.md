@@ -8,7 +8,7 @@ This project includes individual part models, the complete assembly, rendered im
 
 ## Assembly Render
 
-![Scissor Lift Assembly](RENDERS/Scissors%20Lift%20Assembly%20render_Camera_SOLIDWORKS%20Viewport.jpg)
+![Scissor Lift Assembly](RENDERS/Scissors%20Lift%20Assembly%20render/Scissor-Lift-Assembly-Render.jpg)
 
 ---
 
@@ -138,7 +138,7 @@ Scissor-Lift-SolidWorks/
 │   ├── Assem Exploded View.gif
 │   └── Assem Exploded View.mp4
 ├── RENDERS/
-│   ├── Scissors Lift Assembly render_Camera_SOLIDWORKS Viewport.jpg
+│   ├── Scissors Lift Assembly render/Scissor-Lift-Assembly-Render.jpg
 │   ├── Assem1 MOTOR RENDER.gif
 │   └── Assem1 MOTOR RENDER.mp4
 ├── STEP FILE/
